@@ -1,0 +1,2 @@
+# properties file containing database and port configurations
+backend/src/main/resources/application.properties
